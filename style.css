@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.image {
+    position: relative;
+    overflow: hidden;
+}
+.img {
+    width: fit-content;
+    display: block;
+    margin: 0 auto;
+}
+.svg{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: fit-content;
+   
+}
+
+.container {
+    width:62%;
+    margin: 30px auto;   
+}
+.title {
+    width: 400px;
+    color: #111729;
+}
+.paragraph  {
+    width: 310px;
+    color: #677489;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.png {
+    width: 60px;
+    border-radius: 30px;
+}
+hr {
+    width: 62%;
+    margin: 25px auto;
+
+}
+.footer {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 62%;
+    margin:  auto;
+}
